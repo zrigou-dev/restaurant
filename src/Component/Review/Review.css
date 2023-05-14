@@ -1,0 +1,35 @@
+.Review{
+    background-color: #a82d49;
+    padding-bottom: 80px;
+}
+.Review h2{
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    padding: 60px 0;
+}
+.carousel {
+    text-align: center;
+    background-color: #fff;
+    padding: 50px 0;
+    border-radius: 20px;
+}
+.carousel img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.carousel p{
+    color: #444;
+}
+.carousel h3{
+    color: #a82d49;
+}
+.carousel-caption{
+   position: initial !important;
+   max-width: 750px;
+   margin: auto;
+}
+.carousel-indicators{
+    background-color: #a82d49;
+}

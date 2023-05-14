@@ -1,0 +1,14 @@
+.content-explore{
+    margin: 100px auto;
+    text-align: center;
+    max-width: 800px;
+}
+.content-explore h2{
+   color: #43121d;
+   margin-bottom: 20px;
+   letter-spacing: 1px;
+   font-size: 40px;
+}
+.content-explore p{
+    color: #444;
+}

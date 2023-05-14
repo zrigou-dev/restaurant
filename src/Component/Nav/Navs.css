@@ -1,0 +1,36 @@
+nav {
+    background-color: #fff;
+    width: 100%;
+    height: auto;
+}
+nav a{
+    color: rgb(168, 45, 73) !important;
+    font-weight: bold !important;
+    font-size: 17px !important;
+}
+.navbar-brand img{
+    width: 100%;
+    height: 90%;
+}
+#phone-nember{
+    background-color: rgb(168, 45, 73);
+    color: #fff !important;
+    padding: 10px 30px;
+    border: 1px solid rgb(168, 45, 73);
+    text-align: center;
+}
+#phone-nember:hover{
+    background-color: transparent;
+    transition: .3s ease all;
+    color: rgb(168, 45, 73) !important;
+}
+.navbar-toggler{
+    background-color: rgb(168, 45, 73) !important;
+}
+.nav-link{
+    text-align: center;
+    letter-spacing: 1px;
+}
+.nav-link:hover{
+    background-color: rgba(70, 70, 70, 0.158);
+}

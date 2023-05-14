@@ -1,0 +1,59 @@
+header{
+    background: url('../../Assets/Header.jpg') center no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: auto;
+}
+header h2{
+    color: #43121d;
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 120px;
+    text-align: center;
+    letter-spacing: 1px;
+    
+}
+header p{
+    color: #444;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.btn{
+   margin-bottom: 100px; 
+   margin-top: 20px;
+   border: 0;
+}.btn:focus{
+    outline: 0in;
+    border: 0in;
+}
+button{
+    outline: 0ch;
+}
+button:focus{
+    outline: 0;
+}
+.button{
+    background-color: rgb(168, 45, 73);
+    color: #fff;
+    border: 1px solid rgb(168, 45, 73);
+    margin-right: 20px;
+    padding: 10px 30px;
+}
+.btn button{
+    margin-right: 20px;
+    padding: 10px 30px;
+    text-align: center;
+    font-weight: bold;
+    transition: .5s ease all;
+}
+.learn-more{
+    border: 1px solid #fff;
+}
+.learn-more:hover{
+    background-color: transparent;
+    border: 1px solid rgb(168, 45, 73);
+}
+.button:hover{
+background-color: transparent;
+color: rgb(168, 45, 73);
+}

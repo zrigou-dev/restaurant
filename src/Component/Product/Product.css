@@ -1,0 +1,26 @@
+.one-food {
+    margin: 20px auto;
+    text-align: center;
+}
+.one-food img{
+    width: 100%;
+    border-radius: 15px;
+}
+.one-food h3{
+    color: #43121d ;
+}
+.one-food p{
+    color: #444;
+}
+.one-food h2{
+    color: #a82d49 ;
+}
+.one-food h2 span{
+    color: rgba(99, 99, 99, 0.617);
+    text-decoration: line-through;
+}
+.one-food button{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}

@@ -1,0 +1,68 @@
+.about{
+    margin-top: 100px;
+}
+.about img{
+   width: 100%;
+   border-radius: 10px;
+}
+.about h2{
+    font-weight: bold;
+    font-size: 30px;
+    color: #43121d;
+    margin-top: 20px;
+    letter-spacing: 1px;
+    width: 80%;
+    line-height: 45px;
+}
+.about p{
+    color: #444;
+    width: 80%;
+}
+.about button{
+    margin-top:20px ;
+}
+.about ul li{
+    list-style-type: none;
+}
+.icon-done{
+    color: rgb(168, 45, 73);
+    font-weight: bolder;
+    font-size: larger;
+}
+.watch-story{
+    background: url('../../Assets/about3.jpg') center no-repeat;
+    background-size: cover;
+    width:100%;
+}
+.watch-story h2{
+    color: rgb(168, 45, 73);
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+}
+.watch-story p{
+    margin-top: 30px;
+    color: #444;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+.watch-story a{
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    padding-bottom: 100px;
+}
+.watch-story a:hover{
+    color: rgb(168, 45, 73);
+}
+.icon-play{
+font-size: 30px;
+}
+.about2{
+    padding-bottom: 70px;
+}

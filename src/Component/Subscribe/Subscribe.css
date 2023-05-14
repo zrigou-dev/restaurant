@@ -1,0 +1,36 @@
+.Subscribe h2{
+    max-width: 700px;
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    color: #43121d;
+    padding-bottom: 20px;
+}
+.Subscribe p{
+    color: #444;
+        margin: auto;
+        text-align: center;
+}
+.Subscribe{
+    padding: 100px ;
+}
+form{
+    padding-top: 30px;
+    margin: auto;
+    display: block;
+}
+form input{
+
+    height: 50px;
+    padding: 0 20px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    font-weight: 400;
+    width: 100%;
+    border: none;
+    border-radius: 0px;
+    background: transparent;
+    border: 3px solid #e5e5e5;
+    color: #000;
+    font-weight: 700;
+}

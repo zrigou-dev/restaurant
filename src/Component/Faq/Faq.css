@@ -1,0 +1,16 @@
+.faq h2{
+ text-align: center;
+ color: #43121d;
+ padding: 70px 0;
+ font-size: 40px;
+}
+.faq h4{
+    color: #43121d;
+}
+.faq p{
+    color: #444;
+    margin-bottom: 20px;
+}
+.faq{
+    padding-bottom: 100px;
+}

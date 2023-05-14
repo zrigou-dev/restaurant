@@ -1,0 +1,15 @@
+section{
+    background-color: rgb(168, 45, 73);
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+    padding-bottom: 35px;
+}
+section h2{ 
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+section h4{
+    letter-spacing: 1px;
+}

@@ -1,0 +1,32 @@
+.Footer{
+    background-color:#a82d49 ;
+    margin: 0;
+    padding-bottom: 20px ;
+}
+.Link {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+.Link li a{
+    color: #fff;
+    font-size: larger;
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+.social{
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+
+}
+.social li a{
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: xx-large;
+}
